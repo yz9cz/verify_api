@@ -1,5 +1,5 @@
 {
-  "is_active": false,
+  "is_active": true,
   "expiry_date": "2025-12-31",
-  "message": "مرحبًا، الترخيص ساري."
+  "message": "البرنامج مفعل."
 }
