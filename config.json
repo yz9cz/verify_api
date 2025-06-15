@@ -2,8 +2,9 @@
     "is_active": true,
     "expiry_date": "2025-12-31",
     "is_active_expiry_date": false,
-    "message": "UNKNOWN ERROR",
+    "message": "The program is working normally",
+    "unauthorized_device_message": "This device is not authorized. Please contact support for access.",
     "authorized_devices": [
-    "ac36bbc0-27e4-11eb-80e8-5405dbf6f332"
+        "ac36bbc0-27e4-11eb-80e8-5405dbf6f332"
     ]
 }
