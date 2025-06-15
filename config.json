@@ -2,17 +2,9 @@
     "is_active": true,
     "expiry_date": "2025-12-31",
     "is_active_expiry_date": false,
-    "message": "The program is working normally - Last update: 2025-12-06",
+    "message": "The program is working normally",
     "authorized_devices": [
     "4c4c4544-0031-5a10-8048-c8c04f4c3332",
     "ac36bbc0-27e4-11eb-80e8-5405dbf6f332"
     ],
-    "version": "2.1",
-    "last_update": "2025-12-06T10:00:00Z",
-    "notes": {
-    "is_active_expiry_date": "Enable/Disable server scanning - false = The program runs independently",
-    "expiry_date": "The expiration date of the program itself",
-    
-    "is_active": "The activation/deactivation status of the program from the server"
-    }
 }
