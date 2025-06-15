@@ -5,6 +5,7 @@
     "message": "The program is working normally",
     "unauthorized_device_message": "This device is not authorized. Please contact support for access.",
     "authorized_devices": [
+        "4c4c4544-0031-5a10-8048-c8c04f4c3332",
         "ac36bbc0-27e4-11eb-80e8-5405dbf6f332"
     ]
 }
