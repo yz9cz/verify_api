@@ -1,12 +1,9 @@
 {
-    "is_active": true,
-    "expiry_date": "2025-12-31",
-    "is_active_expiry_date": false,
-    "message": "The program is working normally",
-    "unauthorized_device_message": "This device is not authorized. Please contact support for access.",
-    "authorized_devices": [
-        "4c4c4544-0031-5a10-8048-c8c04f4c3332",
-        "ac36bbc0-27e4-11eb-80e8-5405dbf6f332",
-        "4C4C4544-0046-3210-8033-B1C04F484C33"
-    ]
+    "amount": "1",
+    "code": " ",
+    "date": "2025-09-30T09:33:29.000000Z",
+    "id": 668902,
+    "number": "2416183",
+    "product": 29,
+    "type": "تغذية رصيد"
 }
