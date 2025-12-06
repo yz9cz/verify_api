@@ -1,11 +1,69 @@
-[
-      {
-    "id": 668512,
-    "amount": "1",
-    "number": "2416183",
-    "code": null,
-    "product": 29,
-    "type": "تغذية رصيد",
-    "date": "2025-09-29T20:53:16.000000Z"
-  }
-]
+{
+  "last_updated": "2024-01-16T10:00:00Z",
+  "global_settings": {
+    "all_companies_disabled": false,
+    "global_disabled_reason": "نظام الدفع متوقف مؤقتاً للصيانة الشاملة"
+  },
+  "companies": [
+    {
+      "name": "Bitakat",
+      "is_active": true,
+      "suspension_reason": "",
+      "product_id": 80
+    },
+    {
+      "name": "MTS",
+      "is_active": true,
+      "suspension_reason": "",
+      "product_id": 61
+    },
+    {
+      "name": "Inet",
+      "is_active": true,
+      "suspension_reason": "",
+      "product_id": 27
+    },
+    {
+      "name": "Takamol",
+      "is_active": true,
+      "suspension_reason": "",
+      "product_id": 28
+    },
+    {
+      "name": "Lema",
+      "is_active": true,
+      "suspension_reason": "",
+      "product_id": 71
+    },
+    {
+      "name": "Linet",
+      "is_active": true,
+      "suspension_reason": "",
+      "product_id": 37
+    },
+    {
+      "name": "SCS",
+      "is_active": true,
+      "suspension_reason": "",
+      "product_id": 81
+    },
+    {
+      "name": "Sawa",
+      "is_active": true,
+      "suspension_reason": "",
+      "product_id": 82
+    },
+    {
+      "name": "Waves",
+      "is_active": false,
+      "suspension_reason": "تم الايقاف للصيانة: مشكلة في اسم مستخدم الواجهة وكلمة المرور",
+      "product_id": 38
+    },
+    {
+      "name": "Syriatel",
+      "is_active": false,
+      "suspension_reason": "تم الايقاف للصيانة: بحاجة لتجديد اشتراك البروكسي",
+      "product_id": 25
+    }
+  ]
+}
