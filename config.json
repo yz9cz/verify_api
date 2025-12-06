@@ -1,69 +1,69 @@
 {
-  "last_updated": "2024-01-16T10:00:00Z",
+  "last_updated": "2024-01-16T14:00:00",
   "global_settings": {
     "all_companies_disabled": false,
-    "global_disabled_reason": "نظام الدفع متوقف مؤقتاً للصيانة الشاملة"
+    "global_disabled_reason": ""
   },
   "companies": [
     {
+      "id": 0,
       "name": "Bitakat",
       "is_active": true,
-      "suspension_reason": "",
-      "product_id": 80
+      "suspension_reason": ""
     },
     {
+      "id": 1,
       "name": "MTS",
       "is_active": true,
-      "suspension_reason": "",
-      "product_id": 61
+      "suspension_reason": ""
     },
     {
+      "id": 2,
       "name": "Inet",
       "is_active": true,
-      "suspension_reason": "",
-      "product_id": 27
+      "suspension_reason": ""
     },
     {
+      "id": 3,
       "name": "Takamol",
       "is_active": true,
-      "suspension_reason": "",
-      "product_id": 28
+      "suspension_reason": ""
     },
     {
+      "id": 4,
       "name": "Lema",
       "is_active": true,
-      "suspension_reason": "",
-      "product_id": 71
+      "suspension_reason": ""
     },
     {
+      "id": 5,
       "name": "Linet",
       "is_active": true,
-      "suspension_reason": "",
-      "product_id": 37
+      "suspension_reason": ""
     },
     {
+      "id": 6,
       "name": "SCS",
       "is_active": true,
-      "suspension_reason": "",
-      "product_id": 81
+      "suspension_reason": ""
     },
     {
+      "id": 7,
       "name": "Sawa",
       "is_active": true,
-      "suspension_reason": "",
-      "product_id": 82
+      "suspension_reason": ""
     },
     {
+      "id": 8,
       "name": "Waves",
       "is_active": false,
-      "suspension_reason": "تم الايقاف للصيانة: مشكلة في اسم مستخدم الواجهة وكلمة المرور",
-      "product_id": 38
+      "suspension_reason": "تم الايقاف للصيانة: مشكلة في اسم مستخدم الواجهة وكلمة المرور"
     },
     {
+      "id": 9,
       "name": "Syriatel",
       "is_active": false,
-      "suspension_reason": "تم الايقاف للصيانة: بحاجة لتجديد اشتراك البروكسي",
-      "product_id": 25
+      "suspension_reason": "تم الايقاف للصيانة: بحاجة لتجديد اشتراك البروكسي"
     }
   ]
 }
