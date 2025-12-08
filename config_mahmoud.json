@@ -56,8 +56,8 @@
     {
       "id": 8,
       "name": "Waves",
-      "is_active": false,
-      "suspension_reason": "تم الايقاف للصيانة: مشكلة في اسم مستخدم الواجهة وكلمة المرور"
+      "is_active": true,
+      "suspension_reason": ""
     },
     {
       "id": 9,
