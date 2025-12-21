@@ -56,7 +56,7 @@
     {
       "id": 8,
       "name": "Waves",
-      "is_active": false,
+      "is_active": true,
       "suspension_reason": "تم الايقاف للصيانة"
     },
     {
