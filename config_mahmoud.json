@@ -8,7 +8,7 @@
     {
       "id": 0,
       "name": "Bitakat",
-      "is_active": false,
+      "is_active": true,
       "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
     },
     {
