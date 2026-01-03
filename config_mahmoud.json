@@ -14,13 +14,13 @@
     {
       "id": 1,
       "name": "MTS",
-      "is_active": false,
+      "is_active": true,
       "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
     },
     {
       "id": 2,
       "name": "Inet",
-      "is_active": false,
+      "is_active": true,
       "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
     },
     {
@@ -38,31 +38,31 @@
     {
       "id": 5,
       "name": "Linet",
-      "is_active": false,
+      "is_active": true,
       "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
     },
     {
       "id": 6,
       "name": "SCS",
-      "is_active": false,
+      "is_active": true,
       "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
     },
     {
       "id": 7,
       "name": "Sawa",
-      "is_active": false,
+      "is_active": true,
       "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
     },
     {
       "id": 8,
       "name": "Waves",
-      "is_active": false,
+      "is_active": true,
       "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
     },
     {
       "id": 9,
       "name": "Syriatel",
-      "is_active": false,
+      "is_active": true,
       "suspension_reason": "تم الايقاف للصيانة: بحاجة لتجديد اشتراك البروكسي"
     },
     {
