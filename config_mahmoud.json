@@ -26,7 +26,7 @@
     {
       "id": 3,
       "name": "Takamol",
-      "is_active": false,
+      "is_active": true,
       "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
     },
     {
