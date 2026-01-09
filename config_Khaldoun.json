@@ -1,0 +1,75 @@
+{
+  "last_updated": "2024-01-16T14:00:00",
+  "global_settings": {
+    "all_companies_disabled": true,
+    "global_disabled_reason": "تم الأيقاف للصيانة"
+  },
+  "companies": [
+    {
+      "id": 0,
+      "name": "Bitakat",
+      "is_active": true,
+      "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
+    },
+    {
+      "id": 1,
+      "name": "MTS",
+      "is_active": true,
+      "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
+    },
+    {
+      "id": 2,
+      "name": "Inet",
+      "is_active": true,
+      "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
+    },
+    {
+      "id": 3,
+      "name": "Takamol",
+      "is_active": true,
+      "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
+    },
+    {
+      "id": 4,
+      "name": "Lema",
+      "is_active": true,
+      "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
+    },
+    {
+      "id": 5,
+      "name": "Linet",
+      "is_active": true,
+      "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
+    },
+    {
+      "id": 6,
+      "name": "SCS",
+      "is_active": true,
+      "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
+    },
+    {
+      "id": 7,
+      "name": "Sawa",
+      "is_active": true,
+      "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
+    },
+    {
+      "id": 8,
+      "name": "Waves",
+      "is_active": true,
+      "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
+    },
+    {
+      "id": 9,
+      "name": "Syriatel",
+      "is_active": false,
+      "suspension_reason": "تم الايقاف للصيانة: بحاجة لتجديد اشتراك البروكسي"
+    },
+    {
+      "id": 10,
+      "name": "Pronet",
+      "is_active": true,
+      "suspension_reason": "تم الايقاف للصيانة"
+    }
+  ]
+}
