@@ -70,6 +70,12 @@
       "name": "Pronet",
       "is_active": true,
       "suspension_reason": "تم الايقاف للصيانة"
+    },
+    {
+      "id": 11,
+      "name": "Omniya",
+      "is_active": true,
+      "suspension_reason": ""
     }
   ]
 }
