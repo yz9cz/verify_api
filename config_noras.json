@@ -62,14 +62,20 @@
     {
       "id": 9,
       "name": "Syriatel",
-      "is_active": true,
+      "is_active": false,
       "suspension_reason": "تم الايقاف للصيانة: بحاجة لتجديد اشتراك البروكسي"
     },
     {
       "id": 10,
       "name": "Pronet",
       "is_active": true,
-      "suspension_reason": "تم الايقاف للصيانة: بحاجة لتجديد اشتراك البروكسي"
+      "suspension_reason": "تم الايقاف للصيانة"
+    },
+    {
+      "id": 11,
+      "name": "Omniya",
+      "is_active": true,
+      "suspension_reason": "تم الايقاف للصيانة: حل بعض المشاكل"
     }
   ]
 }
