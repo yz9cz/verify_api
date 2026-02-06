@@ -76,6 +76,12 @@
       "name": "Omniya",
       "is_active": true,
       "suspension_reason": "تم الايقاف للصيانة: حل بعض المشاكل"
+    },
+    {
+      "id": 12,
+      "name": "Hypernet",
+      "is_active": true,
+      "suspension_reason": "تم الايقاف للصيانة: حل بعض المشاكل"
     }
   ]
 }
