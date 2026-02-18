@@ -74,8 +74,8 @@
     {
       "id": 11,
       "name": "Omniya",
-      "is_active": true,
-      "suspension_reason": "تم الايقاف للصيانة: حل بعض المشاكل"
+      "is_active": false,
+      "suspension_reason": "تم الايقاف للصيانة: حل مشكلة فشل تنفيذ الدفع"
     },
     {
       "id": 12,
