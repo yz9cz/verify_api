@@ -74,6 +74,18 @@
     {
       "id": 11,
       "name": "Omniya",
+      "is_active": false,
+      "suspension_reason": "تم الايقاف للصيانة: حل مشكلة فشل تنفيذ الدفع"
+    },
+    {
+      "id": 12,
+      "name": "Hypernet",
+      "is_active": true,
+      "suspension_reason": "تم الايقاف للصيانة: حل بعض المشاكل"
+    },
+    {
+      "id": 13,
+      "name": "Dunia",
       "is_active": true,
       "suspension_reason": "تم الايقاف للصيانة: حل بعض المشاكل"
     }
