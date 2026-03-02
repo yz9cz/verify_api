@@ -56,8 +56,8 @@
     {
       "id": 8,
       "name": "Waves",
-      "is_active": true,
-      "suspension_reason": "تم الأيقاف للصيانة: إضافة حالة الالغاء واصلاحات أخرى"
+      "is_active": false,
+      "suspension_reason": "تم الأيقاف للصيانة"
     },
     {
       "id": 9,
@@ -86,8 +86,8 @@
     {
       "id": 13,
       "name": "Dunia",
-      "is_active": true,
-      "suspension_reason": "تم الايقاف للصيانة: حل بعض المشاكل"
+      "is_active": false,
+      "suspension_reason": "تم الايقاف للصيانة"
     }
   ]
 }
